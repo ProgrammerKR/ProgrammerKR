@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Programming**
 
-- 👨‍💻 All of my projects are available at [programmer-kr.github.io/portfolio.com](programmer-kr.github.io/portfolio.com)
+- 👨‍💻 All of my projects are available at [programmerkr.github.io/portfolio.com](programmerkr.github.io/portfolio.com)
 
 - 💬 Ask me about **Programming, Coding, Frontend, Backend**
 
@@ -19,6 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.youtube.com/c/programmerkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="programmerkr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
