@@ -19,7 +19,7 @@ I am a dedicated programmer from **India** with a deep fascination for low-level
 
 - 🔭 **Currently working on:** [ProX – Programming Language](https://github.com/programmerkr/ProX)
 - 🌱 **Learning journey:** Deep-diving into Compiler Design, VM Architectures, and Advanced Systems Programming.
-- 👨‍💻 **Portfolio:** Explore my work at [programmerkr.github.io/progfolio](https://programmerkr.github.io/ProgrammerKR.com)
+- 👨‍💻 **Portfolio:** Explore my work at [programmerkr.github.io/progfolio](https://programmerkr.github.io/progfolio.com)
 - 💬 **Let's talk about:** Programming languages, Frontend/Backend architecture, and Open Source.
 - 📫 **Reach me:** [programmerkr.123@gmail.com](mailto:programmerkr.123@gmail.com)
 
